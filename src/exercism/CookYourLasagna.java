@@ -1,4 +1,4 @@
-package Exercism;
+package exercism;
 public class CookYourLasagna {
     private static final int EXPECTED_MINUTES_IN_OVEN = 40;
     private static final int PREPARATION_TIME_PER_LAYER = 2;
