@@ -9,8 +9,8 @@ Welcome to my Coding Challenges repository! Here, I document my solutions to cod
 |Cook Your Lasagna | [Code](src/exercism/CookYourLasagna.java)     | [View Problem](https://exercism.org/tracks/java/exercises/lasagna) |
 |Annalyn's Infiltration | [Code](src/exercism/AnnalynInfiltration.java) | [View Problem](https://exercism.org/tracks/java/exercises/annalyns-infiltration) |                                       
  |Log Levels | [Code](src/exercism/LogLevels.java)           | [View Problem](https://exercism.org/tracks/java/exercises/log-levels) |     
-| Cars, Assemble! | [Code](src/exercism/CarsAssemble.java)        | [View Problem](https://exercism.org/tracks/java/exercises/cars-assemble) |
-
+|Cars, Assemble! | [Code](src/exercism/CarsAssemble.java)        | [View Problem](https://exercism.org/tracks/java/exercises/cars-assemble) |
+ |Salary Calculator | [Code](src/exercism/SalaryCalculator.java) | [View Problem](https://exercism.org/tracks/java/exercises/salary-calculator) |
 
 
 ## 💡 Contribute or Suggest Solutions
